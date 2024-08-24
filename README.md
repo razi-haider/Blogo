@@ -1,4 +1,4 @@
-# Deploy BlogO into Local Server
+# Deploy Blogo into Local Server
 Following is the roadmap to deploy this project into local server:
 
 ### **Pre-Requisites:**
